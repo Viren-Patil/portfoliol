@@ -20,7 +20,7 @@ export const skillsData = [
   'Bootstrap',
   'Docker',
   'Ubuntu',
-  'Premiere Pro'
+  'PremierePro'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

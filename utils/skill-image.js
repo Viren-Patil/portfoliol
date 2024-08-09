@@ -189,7 +189,7 @@ export const skillsImage = (skill) => {
       return numpy;
     case 'opencv':
       return opencv;
-    case 'premiere pro':
+    case 'premierepro':
       return premierepro;
     case 'pytorch':
       return pytorch;
