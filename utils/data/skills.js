@@ -17,6 +17,7 @@ export const skillsData = [
   'Git',
   'AWS',
   'GCP',
+  'Streamlit',
   'Bootstrap',
   'Docker',
   'Ubuntu',

@@ -74,11 +74,14 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import strmlit from '/public/svg/skills/strmlit.svg'
 
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'streamlit':
+      return strmlit
     case 'gcp':
       return gcp;
     case 'html':
