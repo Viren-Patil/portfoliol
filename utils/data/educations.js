@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Master's of Science in Computer Science",
     duration: "2023 - Present",
-    gpa: "Current GPA: 3.75",
+    gpa: "Current GPA: 3.83",
     institution: "University of Southern California",
   },
   {
