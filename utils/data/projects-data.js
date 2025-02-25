@@ -44,10 +44,10 @@ export const projectsData = [
         description: "Developed a decentralized crowdfunding web application using blockchain technology to ensure transparency, security, and guaranteed returns for backers. The platform allows backers to track project progress in real-time, ensures refunds if projects are aborted, and provides seamless interactions between admins, backers, and start-ups. Smart contracts automate transactions, eliminating third-party involvement and enhancing trust.",
         tools: ['Solidity', 'Ganache', 'Django', "Bootstrap"],
         code: '',
+        role: 'Full Stack Developer',
         demo: '',
         image: ayla,
-        role: 'Full Stack Developer',
-    }
+    },
 ];
 
 
