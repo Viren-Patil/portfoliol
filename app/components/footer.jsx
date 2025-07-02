@@ -11,7 +11,7 @@ function Footer() {
         <div className="flex justify-center">
           <div className="flex items-center">
             <p className="text-sm">
-              © Content by <Link target="_blank" href="https://www.linkedin.com/in/viren-patil-6a3626174/" className="text-[#16f2b3]">Viren Patil</Link>
+              © Content by <Link target="_blank" href="https://www.linkedin.com/in/viren-p/" className="text-[#16f2b3]">Viren Patil</Link>
             </p>
           </div>
         </div>
