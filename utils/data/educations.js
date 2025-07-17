@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Master's of Science in Computer Science",
     duration: "2023 - 2025",
-    gpa: "Current GPA: 3.85/4.0",
+    gpa: "GPA: 3.85/4.0",
     institution: "University of Southern California",
     desc: "Coursework: Algorithms and Datastructures, Foundations of AI, Applied NLP, Web Technologies, Deep Learning, Machine Learning, Information Retreival and Web Search Engines",
   },
