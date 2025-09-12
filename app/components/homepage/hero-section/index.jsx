@@ -32,7 +32,9 @@ function HeroSection() {
             .
           </h1>
 
-          <div className="my-12 flex items-center gap-5">
+          <h1 className="text-xl text-pink-500 mt-5">“Turning Ideas into Code, and Code into Impact”</h1>
+
+          <div className="my-10 flex items-center gap-5">
             <Link
               href={personalData.github}
               target='_blank'
