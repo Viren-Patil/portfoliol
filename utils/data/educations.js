@@ -13,7 +13,7 @@ export const educations = [
     duration: "2018 - 2022",
     gpa: "CGPA: 9.32/10.0",
     institution: "College of Engineering Pune",
-    desc: "",
+    desc: "Coursework: Algorithms, Linear Algebra, DBMS, Computer Organization, Operating Systems, Object Oriented Programming, Web Technologies",
   },
   {
     id: 3,
