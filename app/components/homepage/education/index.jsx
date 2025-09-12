@@ -3,9 +3,18 @@ import Image from "next/image";
 
 import { educations } from "@/utils/data/educations";
 import { BsPersonWorkspace } from "react-icons/bs";
-import AnimationLottie from "../../helper/animation-lottie";
+import dynamic from "next/dynamic";
 import GlowCard from "../../helper/glow-card";
 import lottieFile from '/public/lottie/study.json';
+
+const AnimationLottie = dynamic(
+  () => import("@/app/components/helper/animation-lottie"),
+  {
+    ssr: false,
+    // Optional: show a placeholder while it loads on the client
+    loading: () => <div aria-hidden className="h-40 w-full" />,
+  }
+);
 
 function Education() {
   return (

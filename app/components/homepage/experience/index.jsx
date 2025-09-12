@@ -3,9 +3,18 @@
 import { experiences } from "@/utils/data/experience";
 import Image from "next/image";
 import { BsPersonWorkspace } from "react-icons/bs";
-import AnimationLottie from "../../helper/animation-lottie";
+import dynamic from "next/dynamic";
 import GlowCard from "../../helper/glow-card";
 import experience from '/public/lottie/code.json';
+
+const AnimationLottie = dynamic(
+  () => import("@/app/components/helper/animation-lottie"),
+  {
+    ssr: false,
+    // Optional: show a placeholder while it loads on the client
+    loading: () => <div aria-hidden className="h-40 w-full" />,
+  }
+);
 
 function Experience() {
   return (
