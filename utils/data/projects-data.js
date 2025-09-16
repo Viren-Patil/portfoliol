@@ -14,6 +14,7 @@ export const projectsData = [
         role: 'Deep Learning Research & Full-Stack Development',
         code: '',
         demo: 'https://youtu.be/8REAQg0Wgn0',
+        live: '',
         image: ayla,
     },
     {
@@ -26,6 +27,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
+        live: 'https://advi-movie-list.netlify.app/',
         image: ayla,
     },
     {
@@ -38,6 +40,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
+        live: 'https://ghostwhisp.netlify.app/',
         image: ayla,
     },
     {
@@ -50,6 +53,7 @@ export const projectsData = [
         role: 'Analyzing EvalPlus Framework & Generation of Seed Inputs',
         code: '',
         demo: '',
+        live: '',
         image: crefin,
     },
     {
@@ -61,7 +65,8 @@ export const projectsData = [
         tools: ['NLP', 'Deep Learning', 'Python'],
         role: 'Transformer Coding & Front-end management',
         code: '',
-        demo: '',
+        demo: 'https://youtu.be/u2FIUYIaQOA?si=rcPk9DJwZFjJaPl6&t=311',
+        live: '',
         image: travel,
     },
     {
@@ -74,6 +79,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: 'https://youtu.be/e0ax975GD4w',
+        live: '',
         image: realEstate,
     },
     {
@@ -86,6 +92,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: 'https://youtu.be/fjc8CI-4zL4',
+        live: '',
         image: ayla,
     },
 ];

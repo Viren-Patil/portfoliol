@@ -67,6 +67,12 @@ function ProjectCard({ project }) {
             <a href={project.demo} target='_blank' className="text-cyan-400"> Click here for demo</a>
             <span className="text-gray-400">,</span>
           </div>}
+          {project.live &&
+          <div className="ml-4 lg:ml-8 mr-2">
+            <span className="text-white">Live Website:</span>
+            <a href={project.live} target='_blank' className="text-cyan-400"> Click here to try it out</a>
+            <span className="text-gray-400">,</span>
+          </div>}
           <div><span className="text-gray-400">{`};`}</span></div>
         </code>
       </div>
