@@ -2,7 +2,7 @@ export const personalData = {
   name: "VIREN PATIL",
   profile: '/profile.jpg',
   designation: "Software Developer",
-  description: "I’m Viren Patil, a software engineer and MSCS student at USC with a strong interest in building products that bring AI and engineering together. Over the past few years, I’ve worked on projects ranging from a collaborative movie watchlist app and an ephemeral encrypted chat platform to research in large language models, multimodal video analysis, and AI-powered sports commentary. I also have experience with blockchain applications, data engineering, and cloud infrastructure, which has given me a broad toolkit for solving problems across different domains. What excites me most is the process of turning ambitious ideas into well-crafted, practical tools that people actually enjoy using.",
+  description: "I’m Viren Patil, a software engineer who recently graduated with an MS in Computer Science from USC. I’m drawn to work that sits at the intersection of engineering and AI, and most of my projects reflect that. Over the past few years, I’ve built a collaborative movie watchlist app, an ephemeral encrypted chat platform, and several AI driven systems spanning large language models, multimodal video analysis, and automated sports commentary. I’ve also explored blockchain, data engineering, and cloud infrastructure, which has helped me develop a broad, practical toolkit for solving problems across different domains. What motivates me most is taking ambitious ideas and shaping them into thoughtful, reliable tools that people genuinely enjoy using.",
   email: 'viren.p2000@gmail.com',
   phone: '+1 213-348-8776',
   address: 'Los Angeles, CA, United States - 90007',
