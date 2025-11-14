@@ -13,6 +13,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/13587413/viren-patil',
   leetcode: "https://leetcode.com/u/Viren007/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1UdR6G0W8un7Qq2n3G5StYJyazd1084MK/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1BfAH1bYhdRHIxCf7wv1aG1JW7uA4B8yR/view?usp=sharing"
 }
 
